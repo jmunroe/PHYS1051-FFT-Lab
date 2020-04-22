@@ -1,1 +1,1 @@
-# phys1051-FFT-lab
+# PHYS 1051 FFT Lab
